@@ -10,12 +10,12 @@
       "SESSION_ID": {
       "description": "Put inyour session id",
       "required": true,
-      "value": ""
+      "value": "Chucky-V3&a2F2E1Tf"
     },
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
