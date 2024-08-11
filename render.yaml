@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: Chucky-v3
+    repo: https://github.com/M-axie/Chucky-V3.git
+    branch: main
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: free
+    autoDeploy: true
+    
